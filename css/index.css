@@ -37,24 +37,6 @@
     background-color: white;
 }
 
-.inputs > .modes{
-    background-color: transparent;
-    border: none;
-    display: flex;
-    justify-content: start;
-}   
-
-.inputs > .modes > i{
-    position: relative;
-    display: flex;
-    cursor: pointer;
-    transition: 0.3s ease-in-out;
-}
-
-.inputs > .modes > i:hover{
-    color: blue;
-}
-
 form{
     max-width: 400px;
     width: 100%;
